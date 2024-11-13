@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "bazar.css",
+	"sources": [
+		"../sass/bazar.scss"
+	],
+	"names": [],
+	"mappings": ""
+}

@@ -1,7 +1,7 @@
 {
     "name": "Bazar",
     "version": "0.0.1",
-    "download_url": "https://github.com/IngoStramm/bazar/raw/master/dist/bazar.zip",
+    "download_url": "https://github.com/IngoStramm/bazar/raw/refs/heads/main/dist/bazar.zip",
     "homepage": "https://agencialaf.com",
     "requires": "4.7",
     "tested": "5.5",

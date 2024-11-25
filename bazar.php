@@ -4,7 +4,7 @@
  * Plugin Name: Bazar
  * Plugin URI: https://agencialaf.com
  * Description: Plugin do site Bazar.
- * Version: 0.0.5
+ * Version: 0.0.6
  * Author: Ingo Stramm
  * Text Domain: bazar
  * License: GPLv2
@@ -14,6 +14,7 @@ defined('ABSPATH') or die('No script kiddies please!');
 
 define('BAZAR_DIR', plugin_dir_path(__FILE__));
 define('BAZAR_URL', plugin_dir_url(__FILE__));
+define('BAZAR_VERSION', '0.0.6');
 
 function bazar_debug($debug)
 {

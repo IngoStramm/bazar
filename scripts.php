@@ -16,5 +16,5 @@ function bazar_frontend_scripts()
     // wp_enqueue_script('bazar-script');
 
     // wp_localize_script('bazar-script', 'ajax_object', array('ajax_url' => admin_url('admin-ajax.php')));
-    // wp_enqueue_style('bazar-style', BAZAR_URL . 'assets/css/bazar.css', array(), false, 'all');
+    wp_enqueue_style('bazar-style', BAZAR_URL . 'assets/css/bazar.css', array(), false, 'all');
 }

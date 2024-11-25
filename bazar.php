@@ -4,7 +4,7 @@
  * Plugin Name: Bazar
  * Plugin URI: https://agencialaf.com
  * Description: Plugin do site Bazar.
- * Version: 0.0.3
+ * Version: 0.0.4
  * Author: Ingo Stramm
  * Text Domain: bazar
  * License: GPLv2
